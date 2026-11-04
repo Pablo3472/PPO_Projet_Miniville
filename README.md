@@ -1,3 +1,2 @@
-# Info-Data-Science
-louiuiouiouii
-vfvfvfvfv
+# Miniville
+BUT : Faire un jeu
